@@ -1,2 +1,4 @@
 def say_hello
-  puts "#{your_name}"
+  puts "Hello #{Bria}"
+end
+say_hello
